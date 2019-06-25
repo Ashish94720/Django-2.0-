@@ -1,0 +1,2 @@
+query = Post.objects.all()
+query_filter = Post.objects.filter(id=2)
