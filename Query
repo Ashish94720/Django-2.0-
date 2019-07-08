@@ -1,2 +1,9 @@
 query = Post.objects.all()
+
+
 query_filter = Post.objects.filter(id=2)
+
+###########  is_authenticated  ####################
+is_authenticated() (> 2.0 version) -> is_authenticated
+
+############### 
